@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://epojaoya.github.io/AIm/sitemap_index.txt.gz
+Sitemap: https://epojaoya.github.io/CMO/sitemap_index.txt.gz
+Sitemap: https://epojaoya.github.io/Gku/sitemap_index.txt.gz
+Sitemap: https://epojaoya.github.io/muh/sitemap_index.txt.gz
+Sitemap: https://epojaoya.github.io/pHm/sitemap_index.txt.gz
+Sitemap: https://epojaoya.github.io/sitemap/sitemap_index.txt.gz
